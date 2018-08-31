@@ -14,8 +14,8 @@ TagManager:
   - 
   - 
   - player
-  - 
-  - 
+  - npc
+  - Interaction
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Floor
     uniqueID: 2225984199
+    locked: 0
+  - name: npc
+    uniqueID: 1242998299
     locked: 0
   - name: Player
     uniqueID: 2070097217
